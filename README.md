@@ -368,3 +368,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
 ☑️  Web3 Libraries & Tools (Interaction Layer)
 	🔘 Interaction Libraries: Ethers.js or Web3.js (for JS/TS frontend/backend to talk to the blockchain).
+	🔘 Decentralized Storage: IPFS (InterPlanetary File System). 
