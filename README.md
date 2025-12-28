@@ -252,7 +252,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
 
 
-# BACK-END DEVELOPMENT ROADMAP (FOR BLOCKCHAIN DEVELOPMENT) - SKILLS NEEDED
+# BACK-END / SMARTCONTRACT DEVELOPMENT ROADMAP (FOR BLOCKCHAIN DEVELOPMENT) - SKILLS NEEDED
  	Develop secure and efficient smart contracts and blockchain systems
 	
 	 ☑️ Begineers:
