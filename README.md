@@ -367,3 +367,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	🔘 Development Environments/Frameworks: Hardhat, Foundry, Truffle (for EVM). 
 
 ☑️  Web3 Libraries & Tools (Interaction Layer)
+	🔘 Interaction Libraries: Ethers.js or Web3.js (for JS/TS frontend/backend to talk to the blockchain).
