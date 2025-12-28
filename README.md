@@ -122,7 +122,7 @@ Fundamentals of Blockchain
 
 
 
-# For the back-end Programming Lang:
+# For the smartcontract or back-end Programming Lang:
       a. Solidity (for Ethereum & all Eth layer 2 - EvM) - 
       DOCS:
       https://docs.soliditylang.org/en/v0.8.30/ 
@@ -345,3 +345,9 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
         
         Examples of On-ramp services include :
         Coinbase , binance exchanges/ platform
+
+
+
+
+
+  **##TO BECOME A WEB3 DEVELOPER (FULL-STACK) IT INCLUDES THE FOLLOWING STEPS:** </br>
