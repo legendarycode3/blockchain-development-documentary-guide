@@ -360,6 +360,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 ☑️ Core Foundations (Web2 Skills) 
 	🔘 Programming lang skills: JavaScript (essential), TypeScript (recommended as well when grounded on js).
 	🔘 Frontend skill: HTML, CSS, React for UI.
+	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. 
 ☑️
 
 ☑️
