@@ -357,23 +357,23 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	➡️ Tools like Hardhat/Foundry for development, and decentralized storage (IPFS).
 	➡️ Focus on the foundational layers: blockchain (Ethereum/Solana), smart contracts, decentralized storage, and the frontend/backend tools to connect them. 
 	
-☑️ Core Foundations (Web2 Skills) 
-	🔘 Programming lang skills: JavaScript (essential), TypeScript (recommended as well when grounded on js).
-	🔘 Frontend skill: HTML, CSS, React for UI.
-	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. 
-☑️  Blockchain & Smart Contracts 
-	🔘 Blockchain Concepts: Understand decentralized networks, consensus mechanisms, and wallets (MetaMask).
-	🔘 Smart Contract Languages: Solidity: For Ethereum Virtual Machine (EVM) chains (Ethereum, Polygon, etc.).
-	🔘 Development Environments/Frameworks: Hardhat, Foundry, Truffle (for EVM). 
+☑️ Core Foundations (Web2 Skills) </br>
+	🔘 Programming lang skills: JavaScript (essential), TypeScript (recommended as well when grounded on js). </br>
+	🔘 Frontend skill: HTML, CSS, React for UI. </br>
+	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. </br> 
+☑️  Blockchain & Smart Contracts </br>
+	🔘 Blockchain Concepts: Understand decentralized networks, consensus mechanisms, and wallets (MetaMask). </br>
+	🔘 Smart Contract Languages: Solidity: For Ethereum Virtual Machine (EVM) chains (Ethereum, Polygon, etc.). </br>
+	🔘 Development Environments/Frameworks: Hardhat, Foundry, Truffle (for EVM). </br>
 
-☑️  Web3 Libraries & Tools (Interaction Layer)
-	🔘 Interaction Libraries: Ethers.js or Web3.js (for JS/TS frontend/backend to talk to the blockchain).
-	🔘 Decentralized Storage: IPFS (InterPlanetary File System). 
-	🔘 Testing/Debugging: Hardhat (javascritpt-based) or foundry. 
+☑️  Web3 Libraries & Tools (Interaction Layer) </br>
+	🔘 Interaction Libraries: Ethers.js or Web3.js (for JS/TS frontend/backend to talk to the blockchain). </br>
+	🔘 Decentralized Storage: IPFS (InterPlanetary File System). </br>
+	🔘 Testing/Debugging: Hardhat (javascritpt-based) or foundry. </br>
 
 
 
 
 	
-  ## Layered Approach To Learning Web3 Development (Blockchain) </br>
-1. Master Web Fundamentals: Get solid on JS/TS and a frontend framework (Reactjs)
+  ## Layered Approach To Learning Web3 Development (Blockchain) </br> </br>
+1. Master Web Fundamentals: Get solid on JS/TS and a frontend framework (Reactjs) </br>
