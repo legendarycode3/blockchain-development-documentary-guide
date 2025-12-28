@@ -362,5 +362,6 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	🔘 Frontend skill: HTML, CSS, React for UI.
 	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. 
 ☑️  Blockchain & Smart Contracts 
+	🔘 Blockchain Concepts: Understand decentralized networks, consensus mechanisms, and wallets (MetaMask).
 
 ☑️
