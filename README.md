@@ -356,7 +356,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	➡️ key libraries (Ethers.js/Web3.js) for frontend/backend interaction.
 	➡️ Tools like Hardhat/Foundry for development, and decentralized storage (IPFS).
 	➡️ Focus on the foundational layers: blockchain (Ethereum/Solana), smart contracts, decentralized storage, and the frontend/backend tools to connect them. 
-☑️
+	
+☑️ Core Foundations (Web2 Skills) 
 
 ☑️
 
