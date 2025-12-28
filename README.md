@@ -354,6 +354,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	➡️ Learn core web fundamentals (HTML/CSS/JS)
 	➡️ And  then dive into blockchain basics, smart contracts (Solidity for EVM) 
 	➡️ key libraries (Ethers.js/Web3.js) for frontend/backend interaction
+	➡️ Tools like Hardhat/Foundry for development, and decentralized storage (IPFS).
 ☑️
 
 ☑️
