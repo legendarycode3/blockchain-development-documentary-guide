@@ -363,5 +363,6 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. 
 ☑️  Blockchain & Smart Contracts 
 	🔘 Blockchain Concepts: Understand decentralized networks, consensus mechanisms, and wallets (MetaMask).
+	🔘 Smart Contract Languages: Solidity: For Ethereum Virtual Machine (EVM) chains (Ethereum, Polygon, etc.).
 
 ☑️
