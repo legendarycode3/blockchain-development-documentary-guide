@@ -284,7 +284,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
 
 
-  # OTHER   IMPORTANT INFORMATION  
+  # OTHER   IMPORTANT ADDITIONAL INFORMATIONS (ARE BELOW)  
 
     ☑️ Smart Contract Languages & IDEs:  ---
       1) Solidity: The primary language for writing smart contracts on Ethereum and  EVM compatible blockchain.
@@ -350,4 +350,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
 
 
-  **##TO BECOME A WEB3 DEVELOPER (FULL-STACK) IT INCLUDES THE FOLLOWING STEPS:** </br>
+  ## TO BECOME A WEB3 DEVELOPER (FULL-STACK) IT INCLUDES THE FOLLOWING STEPS: </br>
