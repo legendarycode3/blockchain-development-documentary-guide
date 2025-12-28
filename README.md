@@ -379,3 +379,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
   ## Layered Approach To Learning Web3 Development (Blockchain) </br> </br>
 1. Master Web Fundamentals: Get solid on JS/TS and a frontend framework (Reactjs) </br>
 2. Learn Blockchain Basics: Understand how blockchains, nodes, and wallets work. </br>
+3. Dive into Smart Contracts: Learn Solidity and build simple contracts. </br>
