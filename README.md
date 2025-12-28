@@ -366,4 +366,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	🔘 Smart Contract Languages: Solidity: For Ethereum Virtual Machine (EVM) chains (Ethereum, Polygon, etc.).
 	🔘 Development Environments/Frameworks: Hardhat, Foundry, Truffle (for EVM). 
 
-☑️
+☑️  Web3 Libraries & Tools (Interaction Layer)
