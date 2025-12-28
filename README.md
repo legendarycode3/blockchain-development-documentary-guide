@@ -361,6 +361,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	🔘 Programming lang skills: JavaScript (essential), TypeScript (recommended as well when grounded on js). </br>
 	🔘 Frontend skill: HTML, CSS, React for UI. </br>
 	🔘 Backend: Node.js, APIs (REST/gRPC), Databases. </br> 
+	
 ☑️  Blockchain & Smart Contracts </br>
 	🔘 Blockchain Concepts: Understand decentralized networks, consensus mechanisms, and wallets (MetaMask). </br>
 	🔘 Smart Contract Languages: Solidity: For Ethereum Virtual Machine (EVM) chains (Ethereum, Polygon, etc.). </br>
