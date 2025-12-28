@@ -351,3 +351,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
 
   ## TO BECOME A WEB3 DEVELOPER (FULL-STACK) IT INCLUDES THE FOLLOWING STEPS: </br>
+	Learn core web fundamentals (HTML/CSS/JS) Also know
