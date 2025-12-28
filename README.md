@@ -381,3 +381,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 2. Learn Blockchain Basics: Understand how blockchains, nodes, and wallets work. </br>
 3. Dive into Smart Contracts: Learn Solidity and build simple contracts. </br>
 4. Connect with Libraries: Use Ethers.js/Web3.js with React to build DApps. </br>
+5. Utilize Frameworks: Use Hardhat/Foundry to compile, test, and deploy. </br>
