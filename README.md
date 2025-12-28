@@ -358,7 +358,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	➡️ Focus on the foundational layers: blockchain (Ethereum/Solana), smart contracts, decentralized storage, and the frontend/backend tools to connect them. 
 	
 ☑️ Core Foundations (Web2 Skills) 
-
+	Programming: JavaScript (essential), TypeScript (recommended as well when grounded on js).
 ☑️
 
 ☑️
