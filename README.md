@@ -128,7 +128,7 @@ Fundamentals of Blockchain
       https://docs.soliditylang.org/en/v0.8.30/ 
       
       b. Rust (for SVM - Solana )
-      DOCS:
+      DOCS: https://rust-lang.org/ </br>
 
 
 
