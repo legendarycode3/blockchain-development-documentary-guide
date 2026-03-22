@@ -383,3 +383,4 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 4. Connect with Libraries: Use Ethers.js/Web3.js with React to build DApps. </br>
 5. Utilize Frameworks: Use Hardhat/Foundry to compile, test, and deploy. </br>
 6. Explore Decentralized Tech: Integrate IPFS for storage </br>
+7. You can go further , and build a lucractive portfolio of all projects for your experiences so far  </br>
