@@ -299,6 +299,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
       
       2) Foundry: A Rust-based toolkit  that provides tools for “smart contract development”, “testing”, “deployment”, and  “interaction with blockchain”.  </br>
 	  Foundry is a blazing-fast, portable, and modular toolkit for Ethereum and EVM-compatible smart contract development, written in Rust. It enables developers to
+	  compile, test, and deploy smart contracts entirely using Solidity, eliminating the need for
       
       3) Truffle: A reliable suite of tools designed to steamline the smat contract development  lifecycle.
       
