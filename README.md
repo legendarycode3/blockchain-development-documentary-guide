@@ -294,7 +294,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
     ☑️ Development Frameworks & Toolchains:   ---
       1) Hardhat: A flexible , javascript-based framework for Ethereum development , featuring a local Ethereum network and tools for testing and deployment . </br>
 	  Hardhat is an Ethereum development environment. Hardhat is a popular development environment and framework for Ethereum smart 
-	  contracts, designed to help developers compile, deploy, test, and debug Solidity code. It facilitates end-to-end development, allowing developers to manage tasks like mainnet
+	  contracts, designed to help developers compile, deploy, test, and debug Solidity code. It facilitates end-to-end development, allowing developers to manage tasks like mainnet 
+	  forking, local network simulation, and automated testing, primarily using JavaScript or TypeScript.
       
       2) Foundry: A Rust-based toolkit  that provides tools for “smart contract development”, “testing”, “deployment”, and  “interaction with blockchain”.  
       
