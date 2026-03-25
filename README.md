@@ -313,7 +313,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		
         
         2) Ethers.js: Another JavaScript library that allows dAppsto interact with Ethereum.
-        Also, “Ethers.js” helps you connect the “FrontEnd (eg. React.js)” & the “Smart Contract (e.g Solidity)”.  Web3.js is just a like a bridge between the 2 technology.
+        Also, “Ethers.js” helps you connect the “FrontEnd (eg. React.js)” & the “Smart Contract (e.g Solidity)”.  Web3.js is just a like a bridge between the 2 technology. </br>
+		Ethers.js is a comprehensive and lightweight JavaScript library that serves as a bridge
         
         
         3) OpenZeppelin : Provides secure , audited smart contract standards and libraries for building on  Ethereum. 
