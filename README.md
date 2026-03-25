@@ -309,6 +309,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
         1) Web3.js: A “javascript  library” for building dApps that can interact with the Ethereum blockchain.  
         Web3.js  helps you connect the “FrontEnd (eg. React.js)” & the “Smart Contract (e.g Solidity)”.  Web3.js is just a like a bridge between the 2 technology. </br>
 		Web3.js is a collection of JavaScript libraries that serves as the bridge between decentralized applications (dApps) and the blockchain network, such as Ethereum.
+		It allows web developers to use familiar programming languages and tools to interact with the decentralized web (Web3). </br>
 		
         
         2) Ethers.js: Another JavaScript library that allows dAppsto interact with Ethereum.
