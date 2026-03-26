@@ -319,7 +319,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		(dApps), trading bots, and other web3 software using familiar JavaScript code. </br>
         
         
-        3) OpenZeppelin : Provides secure , audited smart contract standards and libraries for building on  Ethereum. 
+        3) OpenZeppelin : Provides secure , audited smart contract standards and libraries for building on  Ethereum. </br>
+		OpenZeppelin is the industry standard for secure smart contract development,
         
         4) Chainlink: A  decentralized oracle network , that connects smart contract to real-world data and off-chain system.
         
