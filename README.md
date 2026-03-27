@@ -340,6 +340,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		IPFS(Interplanetary File System) is a peer-to-peer, decentralized storage network that replaces location-based addressing (URLs) with content-based addressing
 		(hashes). Files are split, hashed into a unique Content Identifier (CID), and distributed across global nodes, ensuring high security, immutability, and censorship resistance.  </br>
 		IPFS Storage is transforming the way we think about data management. With its decentralized architecture, resilience, and performance benefits, it’s an essential
+		tool for developers and businesses embracing Web3. Ready to explore IPFS
         
         2) Base Docs: Base Documentations when Building on EVM layer 2 blockchain -  https://docs.base.org/get-started/base 
         
