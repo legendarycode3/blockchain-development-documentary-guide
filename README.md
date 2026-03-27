@@ -341,6 +341,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		(hashes). Files are split, hashed into a unique Content Identifier (CID), and distributed across global nodes, ensuring high security, immutability, and censorship resistance.  </br>
 		IPFS Storage is transforming the way we think about data management. With its decentralized architecture, resilience, and performance benefits, it’s an essential
 		tool for developers and businesses embracing Web3. Ready to explore IPFS Storage? Start with Filebase today and unlock the potential of decentralized storage. </br>
+		IPFS Storage operates on a decentralized, peer-to-peer network, offering unmatched resilience, efficiency, and security.
         
         2) Base Docs: Base Documentations when Building on EVM layer 2 blockchain -  https://docs.base.org/get-started/base 
         
