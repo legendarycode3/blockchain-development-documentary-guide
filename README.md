@@ -339,6 +339,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
         1) Decentralized Storage: Platforms like “IPFS” (InterPlanetay File System) offer decentralized solutions for storing data. </br>
 		IPFS(Interplanetary File System) is a peer-to-peer, decentralized storage network that replaces location-based addressing (URLs) with content-based addressing
 		(hashes). Files are split, hashed into a unique Content Identifier (CID), and distributed across global nodes, ensuring high security, immutability, and censorship resistance.  </br>
+		IPFS Storage is transforming the way we think about data management. With its
         
         2) Base Docs: Base Documentations when Building on EVM layer 2 blockchain -  https://docs.base.org/get-started/base 
         
