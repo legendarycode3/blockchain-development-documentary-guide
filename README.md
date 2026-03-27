@@ -324,10 +324,10 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		security tools to build, manage, and audit decentralized applications. It specializes in securing onchain finance with audits and Defender, an operations platform for
 		automating, monitoring, and upgrading contracts. </br>
         
-        4) Chainlink: A  decentralized oracle network , that connects smart contract to real-world data and off-chain system.
+        4) Chainlink: Is a   decentralized oracle network , that connects smart contract to real-world data and off-chain system.
 		Chainlink is the industry-standard, decentralized oracle network enabling blockchain smart contracts to securely connect with real-world 
 		data, events, and off-chain payments. Founded in 2017, it enables hybrid smart contracts to access external data sources,
-		powering DeFi, banking (via SWIFT/CCIP), and tokenized assets with
+		powering DeFi, banking (via SWIFT/CCIP), and tokenized assets with high reliability and security. </br>
         
 
       ☑️ Wallats:   ---
@@ -336,7 +336,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
          		
       ☑️ Other Key Tools:
 
-        1) Decentralized Storage: Platforms like “IPFS” (InterPlanetay File System) offer decentralized solutions for storing data.
+        1) Decentralized Storage: Platforms like “IPFS” (InterPlanetay File System) offer decentralized solutions for storing data. </br>
+		IPFS(Interplanetary File System) is a peer-to-peer, decentralized storage network
         
         2) Base Docs: Base Documentations when Building on EVM layer 2 blockchain -  https://docs.base.org/get-started/base 
         
