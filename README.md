@@ -325,7 +325,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		automating, monitoring, and upgrading contracts. </br>
         
         4) Chainlink: A  decentralized oracle network , that connects smart contract to real-world data and off-chain system.
-		Chainlink is the industry-standard, decentralized oracle network enabling blockchain smart contracts to securely connect with real-
+		Chainlink is the industry-standard, decentralized oracle network enabling blockchain smart contracts to securely connect with real-world 
+		data, events, and off-chain payments. Founded in 2017, it
         
 
       ☑️ Wallats:   ---
