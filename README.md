@@ -347,8 +347,9 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
         
         3) Block Explorers: Tools like Etherscan provide detailed informationon transactions and smart contracts on the blockchain. </br>
 		A block explorer is a web-based tool acting as a search engine for blockchain data, allowing users to view, verify, and analyze real-time and historical transactions, wallet
-		balances, and network activity. It translates complex raw data into a user-friendly 
-		. It translates complex raw data into a user-friendly interface, offering transparency into transactions, smart contracts, and block data.
+		balances, and network activity. It translates complex raw data into a user-friendly .
+		It translates complex raw data into a user-friendly interface, offering transparency into transactions, smart contracts, and block data.
+		It is a tool that presents the data stored on a chain and the activities happening on a blockchain in a user-friendly interface. </br>
 		
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
