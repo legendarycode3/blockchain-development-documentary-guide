@@ -357,6 +357,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 			iii) Network data:  some of which are pending transactions(mempool), hash rates, node data, etc </br>
 			iv) Activities on DEXs . </br>
 			v) Block rewards, Latest block and Gas price/fees </br>
+		 NOTE: The block explorer metrics mentioned above, along with many others, are usually presented in charts, tables, and graphs. </br>
+			
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
 
