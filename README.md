@@ -352,7 +352,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		It is a tool that presents the data stored on a chain and the activities happening on a blockchain in a user-friendly interface. </br>
 		
 		some  metrics and features that Block Explorers provide include: </br>
-		i)
+			i) Market data: such as price, market capitalisation, total supply and circulating supply. 
 		
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
