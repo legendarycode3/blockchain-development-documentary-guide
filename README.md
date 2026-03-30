@@ -346,7 +346,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
         2) Base Docs: Base Documentations when Building on EVM layer 2 blockchain -  https://docs.base.org/get-started/base 
         
         3) Block Explorers: Tools like Etherscan provide detailed informationon transactions and smart contracts on the blockchain. </br>
-		A block explorer is a web-based tool acting as a search engine for blockchain data,
+		A block explorer is a web-based tool acting as a search engine for blockchain data, allowing users to view, verify, and analyze real-time and historical transactions, wallet
+		
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
 
