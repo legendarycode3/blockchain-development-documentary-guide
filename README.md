@@ -355,7 +355,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 			i) Market data: such as price, market capitalisation, total supply and circulating supply. </br>
 			ii) Blockchain data: these include metrics like average block size, average block time, daily active addresses, unique addresses, etc. </br>
 			iii) Network data:  some of which are pending transactions(mempool), hash rates, node data, etc </br>
-		
+			iv) Activities on DEXs .
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
 
