@@ -338,7 +338,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
         1) Decentralized Storage: Platforms like “IPFS” (InterPlanetay File System) offer decentralized solutions for storing data. </br>
 		IPFS(Interplanetary File System) is a peer-to-peer, decentralized storage network that replaces location-based addressing (URLs) with content-based addressing
-		(hashes). Files are split, hashed into a unique Content Identifier (CID), and distributed across global nodes, ensuring high security, immutability, and censorship resistance.  </br>
+		(hashes). Files are split, hashed into a unique Content Identifier (CID), and distributed across global nodes, ensuring high security, immutability, and censorship resistance.  		</br>
 		IPFS Storage is transforming the way we think about data management. With its decentralized architecture, resilience, and performance benefits, it’s an essential
 		tool for developers and businesses embracing Web3. Ready to explore IPFS Storage? Start with Filebase today and unlock the potential of decentralized storage. </br>
 		IPFS Storage operates on a decentralized, peer-to-peer network, offering unmatched resilience, efficiency, and security.
@@ -354,6 +354,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		some  metrics and features that Block Explorers provide include: </br>
 			i) Market data: such as price, market capitalisation, total supply and circulating supply. </br>
 			ii) Blockchain data: these include metrics like average block size, average block time, daily active addresses, unique addresses, etc. </br>
+			iii) Network data:  some of which are pending transactions(mempool), hash rates, node data, etc </br>
 		
         
         4) Security Tools: A range of platforms for smart contract auditing  and fuzzing , such as CodeHawks, Aderyn, and Formal Verification tools.  
