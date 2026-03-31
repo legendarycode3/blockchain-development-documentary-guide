@@ -336,8 +336,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 		Ethereum-based (ERC-20, NFT) tokens, as well as Solana and other EVM-compatible chains. It enables users to interact with
 		decentralized applications (dapps) and manage private keys locally. </br>
         2) Rabby Wallet and Trezor: Rabby Wallet is an open-source, browser-based extension (and mobile app) designed for 
-		Ethereum/EVM chains, known for robust, pre-transaction security simulations and
-		Other popular wallet options for users.  
+		Ethereum/EVM chains, known for robust, pre-transaction security simulations and automatic chain switching. It integrates seamlessly with Trezor hardware wallets, allowing
+		Other popular wallet options for users.   
          		
       ☑️ Other Key Tools:
 
