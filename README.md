@@ -332,7 +332,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 
       ☑️ Wallats:   ---
         1) MetaMask: A widenly used browser extension wallet for managing digital assetsand interacting with dApps. </br>
-		MetaMask is a popular, non-custodial "hot wallet" browser extension
+		MetaMask is a popular, non-custodial "hot wallet" browser extension and mobile app (iOS/Android) used to store, send, and swap
         2) Rabby Wallet and Trezor: Other popular wallet options for users.
          		
       ☑️ Other Key Tools:
