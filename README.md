@@ -291,6 +291,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	  Solidity is a high-level, object-oriented programming language designed for implementing
 	  smart contracts on the Ethereum Virtual Machine (EVM). It is statically typed, supports
 	  inheritance, libraries, and complex user-defined types, often used for DeFi, NFTs, and
+	  voting systems. Solidity is influenced by C++, Python, and JavaScript, with a fast-paced
       
       2) Rust: Used for high-performance  blockchain platforms like Solana.
 
