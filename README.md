@@ -287,7 +287,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
   # OTHER   IMPORTANT ADDITIONAL INFORMATIONS (ARE BELOW)  
 
     ☑️ Smart Contract Languages & IDEs:  ---
-      1) Solidity: The primary language for writing smart contracts on Ethereum and  EVM compatible blockchain.
+      1) Solidity: The primary language for writing smart contracts on Ethereum and  EVM compatible blockchain. </br>
+	  Solidity is a high-level, object-oriented programming language designed for implementing
       
       2) Rust: Used for high-performance  blockchain platforms like Solana.
 
