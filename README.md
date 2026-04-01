@@ -296,6 +296,7 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
       
       2) Rust: Used for high-performance  blockchain platforms like Solana. </br>
 	  Rust is a high-performance, memory-safe systems programming language that achieves
+	  memory safety without a garbage collector by using a "borrow checker" at compile time.
 
     ☑️ Development Frameworks & Toolchains:   ---
       1) Hardhat: A flexible , javascript-based framework for Ethereum development , featuring a local Ethereum network and tools for testing and deployment . </br>
