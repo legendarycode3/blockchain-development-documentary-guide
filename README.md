@@ -294,7 +294,8 @@ Master the skills needed to build stunning and functional Web3 interfaces: <br/>
 	  voting systems. Solidity is influenced by C++, Python, and JavaScript, with a fast-paced
 	  development cycle featuring monthly releases. </br>
       
-      2) Rust: Used for high-performance  blockchain platforms like Solana.
+      2) Rust: Used for high-performance  blockchain platforms like Solana. </br>
+	  Rust is a high-performance, memory-safe systems programming language that achieves
 
     ☑️ Development Frameworks & Toolchains:   ---
       1) Hardhat: A flexible , javascript-based framework for Ethereum development , featuring a local Ethereum network and tools for testing and deployment . </br>
