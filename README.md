@@ -201,7 +201,7 @@ Choose the best for you :  <br/>
       1. React   https://react.dev/  <br/>
       
       2. Nextjs:- Next.js is a React framework for building full-stack web applications. </br>
-	  It is used used for building full-stack web applications  https://nextjs.org/docs 
+	  It is used used for building full-stack web applications by providing production-grade features such as server-side rendering, static site  https://nextjs.org/docs 
       
       3. TwindCSS OR Vanilla CSS   https://tailwindcss.com/docs/installation/using-vite  Or <br/>
          https://developer.mozilla.org/en-US/docs/Web/CSS 
