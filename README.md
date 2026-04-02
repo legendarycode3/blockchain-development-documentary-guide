@@ -199,7 +199,8 @@ Choose the best for you :  <br/>
 # BUILDING ONCHAIN  (EVM CHAIN) RESOURCES (GUIDE) - (IN SUMMARY): 
 ☑️ BLOCKCHAIN “FRONTEND DEVELOPMENT” LEARNING & BUILDING RESOURCES <br/>
       1. React :- React (or ReactJS) is a popular open-source JavaScript library developed by Meta
-	  (formerly Facebook) specifically for building dynamic and interactive user interfaces https://react.dev/  <br/>
+	  (formerly Facebook) specifically for building dynamic and interactive user interfaces
+	  (UIs). It is widely used for creating Single-Page Applications (SPAs) and mobile apps https://react.dev/  <br/>
       
       2. Nextjs:- Next.js is a React framework for building full-stack web applications. </br>
 	  It is used used for building full-stack web applications by providing production-grade features such as server-side rendering, static site
