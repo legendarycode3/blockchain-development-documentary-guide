@@ -200,7 +200,7 @@ Choose the best for you :  <br/>
 ☑️ BLOCKCHAIN “FRONTEND DEVELOPMENT” LEARNING & BUILDING RESOURCES <br/>
       1. React   https://react.dev/  <br/>
       
-      2. Nextjs  https://nextjs.org/docs 
+      2. Nextjs:- Next.js is a React framework for building full-stack web applications.  https://nextjs.org/docs 
       
       3. TwindCSS OR Vanilla CSS   https://tailwindcss.com/docs/installation/using-vite  Or <br/>
          https://developer.mozilla.org/en-US/docs/Web/CSS 
