@@ -78,9 +78,9 @@ NOTE: MAKE SURE TO SCROLL TO THE VERY LAST PAGE, LINKS AND OTHER VALUABLE EXCLUS
 
 11.1 Understand ERC standards (ERC20, ERC721, ERC1155) : 
 
-11.2 Learn to mint and trade NFTs
+11.2 Learn to mint and trade NFTs.
 
-12. Testing and Security 
+12. Testing and Security.
 
 12.1 Master testing smart contracts
 
