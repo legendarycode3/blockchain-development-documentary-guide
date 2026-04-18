@@ -97,7 +97,7 @@ NOTE: MAKE SURE TO SCROLL TO THE VERY LAST PAGE, LINKS AND OTHER VALUABLE EXCLUS
 # HOW TO BECOME  A BLCOKCHAIN(WEB 3) DEVELOPER
 ☑️ Prerequisite (i):
 
-Fundamentals of Blockchain
+Fundamentals of Blockchain:
     1. Blockchain 
     2. EVM 
     3.Cryptp currency
